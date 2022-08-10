@@ -43,7 +43,7 @@ font-family: 'Lexend Deca', sans-serif; */
 
 .card_image{
     width: 50%;
-    background: linear-gradient(0deg, hsla(277, 64%, 61%, 0.5)0%, hsla(277, 64%, 61%, 0.5)100%), url(images/image-header-desktop.jpg);
+    background: linear-gradient(0deg, hsla(277, 64%, 61%, 0.5)0%, hsla(277, 64%, 61%, 0.5)100%), url(image-header-desktop.jpg);
     background-position: center;
     background-size: cover;
     filter: brightness(70%) contrast(150%);
@@ -102,7 +102,7 @@ font-family: 'Lexend Deca', sans-serif; */
     .card .card_image{
         width: 100%;
         height: 30%;
-        background: linear-gradient(0deg, hsla(277, 64%, 61%, 0.5)0%, hsla(277, 64%, 61%, 0.5)100%), url(images/image-header-mobile.jpg);
+        background: linear-gradient(0deg, hsla(277, 64%, 61%, 0.5)0%, hsla(277, 64%, 61%, 0.5)100%), url(image-header-mobile.jpg);
     background-position: center;
     background-size: cover;
     filter: brightness(70%) contrast(150%);
@@ -160,7 +160,7 @@ font-family: 'Lexend Deca', sans-serif; */
     .card .card_image{
         width: 100%;
         height: 30%;
-        background: linear-gradient(0deg, hsla(277, 64%, 61%, 0.5)0%, hsla(277, 64%, 61%, 0.5)100%), url(images/image-header-mobile.jpg);
+        background: linear-gradient(0deg, hsla(277, 64%, 61%, 0.5)0%, hsla(277, 64%, 61%, 0.5)100%), url(image-header-mobile.jpg);
     background-position: center;
     background-size: cover;
     filter: brightness(70%) contrast(150%);
@@ -212,7 +212,7 @@ font-family: 'Lexend Deca', sans-serif; */
     .card .card_image{
         width: 50%;
         height: 100%;
-        background: linear-gradient(0deg, hsla(277, 64%, 61%, 0.5)0%, hsla(277, 64%, 61%, 0.5)100%), url(images/image-header-mobile.jpg);
+        background: linear-gradient(0deg, hsla(277, 64%, 61%, 0.5)0%, hsla(277, 64%, 61%, 0.5)100%), url(image-header-mobile.jpg);
     background-position: center;
     background-size: cover;
     filter: brightness(70%) contrast(150%);
